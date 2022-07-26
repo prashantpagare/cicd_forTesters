@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-26T13:24:33 IST" name="Default suite" finished-at="2022-07-26T13:24:45 IST" duration-ms="12666">
+    <groups>
+    </groups>
+    <test started-at="2022-07-26T13:24:33 IST" name="Default test" finished-at="2022-07-26T13:24:45 IST" duration-ms="12666">
+      <class name="com.CICDTester.CICD_For_Tester.TestClass1">
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:com.CICDTester.CICD_For_Tester.TestClass1@16ec5519]" started-at="2022-07-26T13:24:33 IST" name="launchDriver" finished-at="2022-07-26T13:24:35 IST" duration-ms="1830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="test1()[pri:0, instance:com.CICDTester.CICD_For_Tester.TestClass1@16ec5519]" started-at="2022-07-26T13:24:35 IST" name="test1" finished-at="2022-07-26T13:24:37 IST" duration-ms="2103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.CICDTester.CICD_For_Tester.TestClass1@16ec5519]" started-at="2022-07-26T13:24:37 IST" name="quit" finished-at="2022-07-26T13:24:37 IST" duration-ms="697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:com.CICDTester.CICD_For_Tester.TestClass1@16ec5519]" started-at="2022-07-26T13:24:37 IST" name="launchDriver" finished-at="2022-07-26T13:24:39 IST" duration-ms="1382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="test2()[pri:0, instance:com.CICDTester.CICD_For_Tester.TestClass1@16ec5519]" started-at="2022-07-26T13:24:39 IST" name="test2" finished-at="2022-07-26T13:24:41 IST" duration-ms="1901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.CICDTester.CICD_For_Tester.TestClass1@16ec5519]" started-at="2022-07-26T13:24:41 IST" name="quit" finished-at="2022-07-26T13:24:41 IST" duration-ms="710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:com.CICDTester.CICD_For_Tester.TestClass1@16ec5519]" started-at="2022-07-26T13:24:41 IST" name="launchDriver" finished-at="2022-07-26T13:24:43 IST" duration-ms="1373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="test3()[pri:0, instance:com.CICDTester.CICD_For_Tester.TestClass1@16ec5519]" started-at="2022-07-26T13:24:43 IST" name="test3" finished-at="2022-07-26T13:24:45 IST" duration-ms="1937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.CICDTester.CICD_For_Tester.TestClass1@16ec5519]" started-at="2022-07-26T13:24:45 IST" name="quit" finished-at="2022-07-26T13:24:45 IST" duration-ms="686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.CICDTester.CICD_For_Tester.TestClass1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
